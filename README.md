@@ -1,4 +1,4 @@
-<h2>👋 Hi there</h2>
+<h2>👋 Hi there <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></h2>
 
 <p><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
 
