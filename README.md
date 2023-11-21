@@ -11,6 +11,7 @@
   🔭 `I’m currently working as`: **Full Stack Developer**
   
   🌱 `I’m currently learning`: **Data Engineering**,
+  
   💻 `Favorite lang`: **Python & TypeScript** 
 
 </div>
