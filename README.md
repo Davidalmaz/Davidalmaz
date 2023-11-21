@@ -4,10 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/> 
 </p>
 
-<hr/>
-
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
-
 {  
 
 * 👂 `My name is`: **David**,
