@@ -6,11 +6,9 @@
 
 👂 `My name is`: **David**
 
-⚡ `I’m`: **27 years old**
-
 🔭 `I’m currently working as`: **Full Stack Developer**
 
-🌱 `I’m currently learning`: **Data Engineering**
+🌱 `I’m currently learning`: **React Native & Data Engineering**
 
 💻 `Favorite lang`: **Python & TypeScript**
 
