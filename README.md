@@ -1,7 +1,7 @@
 <h2>👋 Hi there </h2>
 
 <p><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
-<hr/>
+
 {  
 
 * 👂 `My name is`: **David**,
