@@ -1,8 +1,6 @@
-<h2 align="center">👋 Hi there</h2>
+<h2>👋 Hi there</h2>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/> 
-</p>
+<p><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
 
 {  
 
