@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there</h2>
 
-<!--
-**Davidalmaz/Davidalmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/> 
+</p>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
+
+{  
+
+* 👂 `My name is`: **David**,
+* ⚡ `I’m`: **27 years old**,
+* 🔭 `I’m currently working as`: **Full Stack Developer**
+* 🌱 `I’m currently learning`: **Data Engineering**,
+* 💻 `Favorite lang`: **Python & TypeScript**  
+
+}
