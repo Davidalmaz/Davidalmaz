@@ -8,8 +8,8 @@
 
 🔭 `I’m currently working as`: **Full Stack Developer**
 
-🌱 `I’m currently learning`: **React Native & Data Engineering**
+🌱 `I’m currently learning`: **C# and .NET**
 
-💻 `Favorite lang`: **Python & TypeScript**
+💻 `Favorite lang`: **C# and Python**
 
 </div>
