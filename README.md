@@ -5,7 +5,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="30"/> Hi there!
-<br /> 
+
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
 
