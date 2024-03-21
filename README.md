@@ -1,6 +1,6 @@
-<!--Night Owl image-->
+<!--World Gif-->
 <div>
-  <img align="right" width="40%" src="[https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5)">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://giphy.com/gifs/technology-earth-communications-U4FkC2VqpeNRHjTDQ5)">
 </div>
 
 <!--Header Name-->
