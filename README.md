@@ -27,18 +27,19 @@
 <!--Contact Section--> 
 <h2>Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/> </h2>
 <div align="center">
-  <div style="margin-bottom: 10px;">
+  <div style="display: inline-block; margin-right: 10px;">
     <a href="https://www.linkedin.com/in/davidalmandoz/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="border-radius: 8px;" />
     </a>
   </div>
   
-  <div style="margin-bottom: 10px;">
+  <div style="display: inline-block; margin-right: 10px;">
     <a href="mailto:davidalmandoz@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="davidalmandoz@gmail.com mail" style="border-radius: 8px;" />
     </a>
   </div>
 </div>
+
 
 <!--Footer--> 
 <br /> 
