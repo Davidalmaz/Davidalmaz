@@ -1,6 +1,6 @@
 <!--World Gif-->
 <div>
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/U4FkC2VqpeNRHjTDQ5.webp">
+  <img align="right" width="40%" alt="GIF" src="https://i.giphy.com/U4FkC2VqpeNRHjTDQ5.webp">
 </div>
 
 <!--Header Name-->
