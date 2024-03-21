@@ -7,7 +7,6 @@
 </div>
 
 <!--Count Badge-->
-<div>
 <p>
   <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/>
 </p>
@@ -17,7 +16,6 @@
 - 🌱 I’m currently learning **Something new everyday**
 - 💬 Ask me about **Solving a problem**.
 - ✨ "It's better to know a single technology capable of solving 10 problems than to know 10 technologies to solve the same problem". 
-</div>
 <!--End Intro-->
 <br /> 
 
