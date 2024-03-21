@@ -21,6 +21,9 @@
 - ✨ "It's better to know a single technology capable of solving 10 problems than to know 10 technologies to solve the same problem".
 <!--End Intro-->
 
+<!--Github Stats--> 
+https://github-readme-stats.vercel.app/api/top-langs?username=Davidalmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight
+
 <!--Contact Section--> 
 <h2>Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/> </h2>
 
