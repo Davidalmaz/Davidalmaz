@@ -8,12 +8,12 @@
 </div>
 
 <!--Count Badge-->
+<div>
 <p>
   <img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/>
 </p>
 
 <!--Intro-->
-<div>
 👂 `My name is`: **David**
 
 🔭 `I’m currently working as`: **Full Stack Developer**
