@@ -22,6 +22,7 @@
 
 💻 `Favorite lang`: **C# and Python**
 </div>
+<br /> 
 
 <!--Contact Section--> 
 # Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/>
