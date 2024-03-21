@@ -7,9 +7,9 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="30"/> Hi there!
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
+<p><img src="https://komarev.com/ghpvc/?username=davidalmaz&color=blue"/></p>
 
-<div align="center">
+<div>
 
 👂 `My name is`: **David**
 
