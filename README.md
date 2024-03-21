@@ -3,9 +3,7 @@
 
 <!--Data Gif-->
 <div>
-  <p>
   <img align="right" width="40%" alt="GIF" src="https://i.giphy.com/l46Cy1rHbQ92uuLXa.webp">
-  </p>
 </div>
 
 <!--Count Badge-->
@@ -25,6 +23,7 @@
 </div>
 <br /> 
 
+<div>
 <!--Contact Section--> 
 <h2>Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/> </h2>
 <div align="center">
@@ -36,7 +35,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=davidalmandoz@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 </div>
-
+</div>
 <!--Footer--> 
 <br /> 
 
