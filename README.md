@@ -1,6 +1,5 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="30"/> Hi there!
-<br /> 
 
 <!--Data Gif-->
 <div>
@@ -25,7 +24,7 @@
 <br /> 
 
 <!--Contact Section--> 
-# Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/>
+<h2 align="center">Connect with me</h2> <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/>
 <div align="center">
  <a href="https://www.linkedin.com/in/davidalmandoz/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
