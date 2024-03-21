@@ -3,7 +3,9 @@
 
 <!--Data Gif-->
 <div>
+  <p>
   <img align="right" width="40%" alt="GIF" src="https://i.giphy.com/l46Cy1rHbQ92uuLXa.webp">
+  </p>
 </div>
 
 <!--Count Badge-->
