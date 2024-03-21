@@ -13,9 +13,13 @@
 
 <!--Intro-->
 <p align="left">My name is David, I´m currently working as Full Stack Developer and I´m a Data Science Enthusiast.</p>
-- 🌱 I’m currently learning **Something new everyday**
+
+- 🌱 I’m currently learning **Something new everyday**.
+
 - 💬 Ask me about **Solving a problem**.
-- ✨ "It's better to know a single technology capable of solving 10 problems than to know 10 technologies to solve the same problem". 
+  
+- ✨ "It's better to know a single technology capable of solving 10 problems than to know 10 technologies to solve the same problem".
+  
 <!--End Intro-->
 <br /> 
 
