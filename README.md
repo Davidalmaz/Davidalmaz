@@ -22,7 +22,9 @@
 <!--End Intro-->
 
 <!--Github Stats--> 
-https://github-readme-stats.vercel.app/api/top-langs?username=Davidalmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight
+## <b>Github Stats</b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Davidalmaz&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
 
 <!--Contact Section--> 
 <h2>Connect with me <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87798/rocket.png?1705794630" width="30"/> </h2>
