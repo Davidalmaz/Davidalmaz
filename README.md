@@ -1,5 +1,5 @@
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1705794630/87797/wave.png?1705794630" width="30"/> Hi there!
+# <img src="https://i.giphy.com/KX5nwoDX97AtPvKBF6.webp" width="30"/> Hi there!
 
 <div>
 <!--World Gif-->
