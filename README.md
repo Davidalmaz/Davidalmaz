@@ -12,7 +12,7 @@
 </p>
 
 <!--Intro-->
-<p align="left">My name is David, I´m currently working as Full Stack Developer and I´m a Data Science Enthusiast.</p>
+<p align="left">I´m a Bachelor in Computer Engineering with a strong background in Software Development. My expertise lies in designing and building efficient, user-friendly Web2/Web3 applications and quantitative trading. I'm eager to apply my skills to innovative projects and contribute to a dynamic team.</p>
 
 - 🌱 I’m currently learning **something new everyday**.
 
