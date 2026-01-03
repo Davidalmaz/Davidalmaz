@@ -12,13 +12,16 @@
 </p>
 
 <!--Intro-->
-<p align="left">I´m a Bachelor in Computer Engineering with a strong background in Software Development. My expertise lies in designing and building efficient, user-friendly Web2/Web3 applications and quantitative trading. I'm eager to apply my skills to innovative projects and contribute to a dynamic team.</p>
+<p align="left">
+Data Engineer with a Bachelor’s degree in Computer Engineering and a strong foundation in Software Development. 
+I focus on building data pipelines and analytics-ready datasets, applying good practices in data modeling, automation, and reproducibility.
+</p>
 
-- 🌱 I’m currently learning **something new everyday**.
+- 🌱 I’m currently learning **modern data engineering tools and architectures**.
 
-- 💬 Ask me about **solving a problem**.
+- 💬 Ask me about **data pipelines, SQL, Python, and turning raw data into usable insights**.
   
-- ✨ "It's better to know a single technology capable of solving 10 problems than to know 10 technologies to solve the same problem".
+- ✨ "Good data engineering is not about tools, but about trust, structure, and reproducibility."
 <!--End Intro-->
 
 <!--Github Stats--> 
