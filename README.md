@@ -7,12 +7,12 @@ Outside of work, I run Almaz: a personal portfolio across quant, web3 and hackat
 AI-first workflow, ownership across the full stack, dense technical domains. I ship.
 
 &nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-1F2937?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-1F2937?style=flat-square&logo=next.js&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-1F2937?style=flat-square&logo=solana&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-1F2937?style=flat-square&logo=anthropic&logoColor=white)
 &nbsp;
 
 [linkedin](https://www.linkedin.com/in/davidalmandoz/) &nbsp;·&nbsp; [x](https://x.com/Playeralmaz) &nbsp;·&nbsp; davidalmandoz@gmail.com
