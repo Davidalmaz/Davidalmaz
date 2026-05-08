@@ -9,9 +9,7 @@ In parallel — Almaz: a personal portfolio across quant, web3 and hackathons. C
 AI-first, end-to-end, dense technical domains. I ship.
 
 &nbsp;
-
 `Python` &nbsp; `TypeScript` &nbsp; `PostgreSQL` &nbsp; `Next.js` &nbsp; `Solana/Anchor` &nbsp; `Claude Code`
-
 &nbsp;
 
 [linkedin](https://www.linkedin.com/in/davidalmandoz/) &nbsp;·&nbsp; [x](https://x.com/Playeralmaz) &nbsp;·&nbsp; davidalmandoz@gmail.com
