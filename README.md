@@ -7,6 +7,8 @@ Outside of work, I run Almaz: a personal portfolio across quant, web3 and hackat
 AI-first workflow, ownership across the full stack, dense technical domains. I ship.
 
 &nbsp;
+**Stack**
+
 ![Python](https://img.shields.io/badge/-Python-1F2937?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
@@ -15,6 +17,8 @@ AI-first workflow, ownership across the full stack, dense technical domains. I s
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-1F2937?style=flat-square&logo=anthropic&logoColor=white)
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalmandoz/)
-[![X](https://img.shields.io/badge/-X-1F2937?style=flat-square&logo=x&logoColor=white)](https://x.com/Playeralmaz)
-[![Email](https://img.shields.io/badge/-Email-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:davidalmandoz@gmail.com)
+**Find me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalmandoz/)
+[![X](https://img.shields.io/badge/-@Playeralmaz-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Playeralmaz)
+[![Email](https://img.shields.io/badge/-davidalmandoz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:davidalmandoz@gmail.com)
