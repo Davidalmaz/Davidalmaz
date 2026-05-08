@@ -6,7 +6,8 @@ Outside of work, I run Almaz: a personal portfolio across quant, web3 and hackat
 
 AI-first workflow, ownership across the full stack, dense technical domains. I ship.
 
-&nbsp;
+<br>
+
 **Stack**
 
 ![Python](https://img.shields.io/badge/-Python-1F2937?style=flat-square&logo=python&logoColor=white)
@@ -15,7 +16,8 @@ AI-first workflow, ownership across the full stack, dense technical domains. I s
 ![Next.js](https://img.shields.io/badge/-Next.js-1F2937?style=flat-square&logo=next.js&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-1F2937?style=flat-square&logo=solana&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-1F2937?style=flat-square&logo=anthropic&logoColor=white)
-&nbsp;
+
+<br>
 
 **Find me**
 
