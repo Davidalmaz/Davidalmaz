@@ -15,4 +15,6 @@ AI-first workflow, ownership across the full stack, dense technical domains. I s
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-1F2937?style=flat-square&logo=anthropic&logoColor=white)
 &nbsp;
 
-[linkedin](https://www.linkedin.com/in/davidalmandoz/) &nbsp;·&nbsp; [x](https://x.com/Playeralmaz) &nbsp;·&nbsp; davidalmandoz@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalmandoz/)
+[![X](https://img.shields.io/badge/-X-1F2937?style=flat-square&logo=x&logoColor=white)](https://x.com/Playeralmaz)
+[![Email](https://img.shields.io/badge/-Email-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:davidalmandoz@gmail.com)
